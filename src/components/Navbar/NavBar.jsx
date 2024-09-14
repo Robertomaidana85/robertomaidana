@@ -6,6 +6,7 @@ const NavBar = () => {
   return (
     
     <header>
+      <img className="perro" src= {"./img/perro.jpg"} alt='Logo'/>
         <h1>Patitas Petshop Online</h1>
         <nav>
             <ul>
